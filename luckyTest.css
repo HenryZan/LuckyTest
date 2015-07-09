@@ -1,0 +1,51 @@
+
+
+body {
+	background: #f5f5f5;
+}
+
+table {
+	background: #B0E2FF;
+	margin: 20 auto 0;
+	width: 450px;
+	height: 450px;
+}
+
+
+td {
+	width: 100px;
+	height: 100px;
+	background: #00BFFF;
+	text-align: center;
+}
+
+.changedTD {
+	background: #00EE00;
+}
+
+.cell span {
+	font-size: 80;
+	font-family: Arial;
+	text-align: center;
+	color: #DCDCDC;
+}
+
+
+#pageHead {
+	padding: 10px 500px 10px 500px;
+}
+
+#pageFoot {
+	padding-top: 2px;
+	padding-left: 550px;
+}
+
+
+
+h2,h3 {
+	font-family: Comic Sans MS;
+}
+
+h3 span {
+	color: red;
+}
