@@ -6,7 +6,7 @@ body {
 
 table {
 	background: #B0E2FF;
-	margin: 20 auto 0;
+	margin: 10 auto 0;
 	width: 450px;
 	height: 450px;
 }
@@ -32,7 +32,7 @@ td {
 
 
 #pageHead {
-	padding: 10px 500px 10px 500px;
+	padding: 5px 500px 5px 500px;
 }
 
 #pageFoot {
